@@ -125,8 +125,9 @@ Projeto desenvolvido com foco **educacional e demonstrativo**, ideal para portf�
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **João Roberto**
-💼 Desenvolvedor Front-End
+Desenvolvido por **João Roberto**<br>
+💼 Desenvolvedor Front-End<br>
 [🔗 Linkedin](https://linkedin.com/in/joaorobertoo)
+
 
 
